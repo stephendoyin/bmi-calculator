@@ -10,7 +10,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.stephen.bmicalculator",
+      "package": "com.techies.bmicalculator",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#0F172A",
